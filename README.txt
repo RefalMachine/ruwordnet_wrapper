@@ -1,0 +1,1 @@
+Python wrapper for WordNet, RuWordNet and RuThes formats.
